@@ -1,0 +1,234 @@
+[
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "DaliyAPP.API.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.AccountController",
+    "Method": "Reg",
+    "RelativePath": "api/Account/Reg",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountDTO",
+        "Type": "DaliyAPP.API.DTOs.AccountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.MemoController",
+    "Method": "AddMemo",
+    "RelativePath": "api/Memo/AddMemo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddMemoInfo",
+        "Type": "DaliyAPP.API.DataModel.MemoInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.MemoController",
+    "Method": "DeleteMemo",
+    "RelativePath": "api/Memo/DeleteMemo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "memoDTO",
+        "Type": "DaliyAPP.API.DTOs.MemoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.MemoController",
+    "Method": "EditMemo",
+    "RelativePath": "api/Memo/EditMemo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NewmemoDTO",
+        "Type": "DaliyAPP.API.DTOs.MemoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.MemoController",
+    "Method": "QueryMemo",
+    "RelativePath": "api/Memo/QueryMemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.MemoController",
+    "Method": "StaMemo",
+    "RelativePath": "api/Memo/StaMemo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "AddWait",
+    "RelativePath": "api/Wait/AddWait",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddWaitDTO",
+        "Type": "DaliyAPP.API.DTOs.AddWaitDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "DeleteWait",
+    "RelativePath": "api/Wait/DeleteWait",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddWaitDTO",
+        "Type": "DaliyAPP.API.DTOs.AddWaitDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "EditWait",
+    "RelativePath": "api/Wait/EditWait",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEditWaitDTO",
+        "Type": "DaliyAPP.API.DTOs.AddWaitDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "GetWaitingList",
+    "RelativePath": "api/Wait/GetWaitingList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "Query",
+    "RelativePath": "api/Wait/Query",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "StaWait",
+    "RelativePath": "api/Wait/StaWait",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WaitController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/Wait/UpdateStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newaddWaitDTO",
+        "Type": "DaliyAPP.API.DTOs.AddWaitDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DaliyAPP.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DaliyAPP.API.WeatherForecast, DaliyAPP.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\Views\\MainWindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\Views\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "DaliyAPP.WPF\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:54:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DaliyAPP.WPF\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:49:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "DaliyAPP.WPF\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T02:47:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\App.xaml.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml.cs",
+              "RelativeToolTip": "DaliyAPP.WPF\\App.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:45:22.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\App.xaml",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\App.xaml",
+              "RelativeToolTip": "DaliyAPP.WPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T02:45:08.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeUCViewModel.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.WPF\\DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "RelativeToolTip": "DaliyAPP.WPF\\ViewModels\\HomeUCViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAKMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:39:58.006Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

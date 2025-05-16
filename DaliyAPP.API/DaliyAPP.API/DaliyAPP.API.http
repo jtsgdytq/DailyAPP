@@ -1,0 +1,6 @@
+@DaliyAPP.API_HostAddress = http://localhost:5105
+
+GET {{DaliyAPP.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

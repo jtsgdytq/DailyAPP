@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|d:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\daliyapp.api\\daliyapp.api\\controllers\\waitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|solutionrelative:daliyapp.api\\controllers\\waitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|d:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\daliyapp.api\\daliyapp.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|solutionrelative:daliyapp.api\\controllers\\memocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|d:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\daliyapp.api\\daliyapp.api\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|solutionrelative:daliyapp.api\\dtos\\memodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|d:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\daliyapp.api\\daliyapp.api\\datamodel\\memoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|solutionrelative:daliyapp.api\\datamodel\\memoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|d:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\daliyapp.api\\daliyapp.api\\datamodel\\waitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAF2241-3341-4C40-8B3E-D30F0EA96AAE}|DaliyAPP.API\\DaliyAPP.API.csproj|solutionrelative:daliyapp.api\\datamodel\\waitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoDTO.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DTOs\\MemoDTO.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.API\\DTOs\\MemoDTO.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DTOs\\MemoDTO.cs",
+              "RelativeToolTip": "DaliyAPP.API\\DTOs\\MemoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:19:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaitController.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\Controllers\\WaitController.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.API\\Controllers\\WaitController.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\Controllers\\WaitController.cs",
+              "RelativeToolTip": "DaliyAPP.API\\Controllers\\WaitController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:01:43.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoController.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\Controllers\\MemoController.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.API\\Controllers\\MemoController.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\Controllers\\MemoController.cs",
+              "RelativeToolTip": "DaliyAPP.API\\Controllers\\MemoController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:01:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoInfo.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DataModel\\MemoInfo.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.API\\DataModel\\MemoInfo.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DataModel\\MemoInfo.cs",
+              "RelativeToolTip": "DaliyAPP.API\\DataModel\\MemoInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:52:41.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaitInfo.cs",
+              "DocumentMoniker": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DataModel\\WaitInfo.cs",
+              "RelativeDocumentMoniker": "DaliyAPP.API\\DataModel\\WaitInfo.cs",
+              "ToolTip": "D:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\DaliyAPP.API\\DaliyAPP.API\\DataModel\\WaitInfo.cs",
+              "RelativeToolTip": "DaliyAPP.API\\DataModel\\WaitInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:40:56.466Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

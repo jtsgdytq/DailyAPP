@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o1IaNPwirc+48kW9vnFHOhwaXn4dSpKWs8ambfGzyl8=",
+  "Source": "DaliyAPP.API",
+  "BasePath": "_content/DaliyAPP.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>登录邮件.ico</ApplicationIcon>
+     <AssemblyName>DailyAPP.WPF</AssemblyName>
+    <RootNamespace>DailyAPP.WPF</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image\一眼丁真_爱给网_aigei_com.png" />
+    <None Remove="image\没有数据.png" />
+    <None Remove="image\用户登录.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="登录邮件.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image\没有数据.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Prism.DryIoc" Version="8.1.97" />
+    <PackageReference Include="RestSharp" Version="108.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image\一眼丁真_爱给网_aigei_com.png" />
+    <Resource Include="image\用户登录.png" />
+  </ItemGroup>
+
+</Project>
